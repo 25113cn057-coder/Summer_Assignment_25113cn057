@@ -10,7 +10,7 @@ public class q7 {
             p=p*a;
             n=n/10;
         }
-        System.out.printf("the product of digits is : %d",p);
+        System.out.printf("the product of digits is : %d",p );
     }
     
 }
